@@ -1,0 +1,24 @@
+[
+  {
+    "type": "h2",
+    "text": "Centro de salud cercanos"
+  },
+  {
+    "type": "p",
+    "text": "Encuentra los centros de salud cercanos."
+  },
+  {
+    "type": "btn",
+    "text": "Centros Cercanos",
+    "action": "locations-list"
+  },
+  {
+    "type": "p",
+    "text": "Tambien puedes verlos en un mapa."
+  },
+  {
+    "type": "btn",
+    "text": "Mapa",
+    "action": "locations-map"
+  }
+]
