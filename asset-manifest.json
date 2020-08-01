@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gvpysalud/static/css/main.52731c23.chunk.css",
-    "main.js": "/gvpysalud/static/js/main.a0d6c037.chunk.js",
-    "main.js.map": "/gvpysalud/static/js/main.a0d6c037.chunk.js.map",
+    "main.js": "/gvpysalud/static/js/main.d444673f.chunk.js",
+    "main.js.map": "/gvpysalud/static/js/main.d444673f.chunk.js.map",
     "runtime-main.js": "/gvpysalud/static/js/runtime-main.842864d5.js",
     "runtime-main.js.map": "/gvpysalud/static/js/runtime-main.842864d5.js.map",
     "static/js/2.246c5b1d.chunk.js": "/gvpysalud/static/js/2.246c5b1d.chunk.js",
     "static/js/2.246c5b1d.chunk.js.map": "/gvpysalud/static/js/2.246c5b1d.chunk.js.map",
     "index.html": "/gvpysalud/index.html",
-    "precache-manifest.c54ba7a908c032315f9d214a8ddcd08e.js": "/gvpysalud/precache-manifest.c54ba7a908c032315f9d214a8ddcd08e.js",
+    "precache-manifest.c695515b9c8a8f68a41401bd863a4915.js": "/gvpysalud/precache-manifest.c695515b9c8a8f68a41401bd863a4915.js",
     "service-worker.js": "/gvpysalud/service-worker.js",
     "static/css/main.52731c23.chunk.css.map": "/gvpysalud/static/css/main.52731c23.chunk.css.map",
     "static/js/2.246c5b1d.chunk.js.LICENSE.txt": "/gvpysalud/static/js/2.246c5b1d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.842864d5.js",
     "static/js/2.246c5b1d.chunk.js",
     "static/css/main.52731c23.chunk.css",
-    "static/js/main.a0d6c037.chunk.js"
+    "static/js/main.d444673f.chunk.js"
   ]
 }
